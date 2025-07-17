@@ -2,7 +2,7 @@
 title: Hello World
 menu_order: 1
 post_status: publish
-featured_image:
+featured_image: _images/quad_forbes_newsbanner1300x680.jpg
 taxonomy:
     category:
         - uncategorized
