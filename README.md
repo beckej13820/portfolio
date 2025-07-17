@@ -1,2 +1,0 @@
-# portfolio
-This is a test area to create documentation connected to WordPress with the Git it Write Plugin
