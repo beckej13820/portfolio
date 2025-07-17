@@ -2,7 +2,8 @@
 title: Hello World
 menu_order: 1
 post_status: publish
-featured_image:
+featured_image: ![quad_forbes_newsbanner1300x680](https://github.com/user-attachments/assets/eec2222d-670a-400a-a3c2-92e95725f7b0)
+
 taxonomy:
     category:
         - uncategorized
