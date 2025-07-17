@@ -11,8 +11,6 @@ taxonomy:
 ---
 # Hello World
 
-![quad_forbes_newsbanner1300x680](https://github.com/user-attachments/assets/eec2222d-670a-400a-a3c2-92e95725f7b0)
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac egestas mi. Proin dignissim ante tortor, nec varius urna gravida a. Vestibulum et libero nulla. Integer et bibendum lectus, porta euismod ante. Sed dignissim, urna sit amet posuere malesuada, ipsum risus pulvinar ipsum, eu ullamcorper felis elit eget leo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse molestie viverra mattis. Cras sodales feugiat sapien, et ultricies ante efficitur vitae. Etiam aliquet sed tellus in tincidunt. Donec tincidunt sem a sem congue hendrerit.
 
 In sit amet pulvinar augue, non auctor tortor. Donec tincidunt, nulla ac cursus cursus, mi massa blandit tellus, sit amet fermentum est ante ut nulla. Nullam vel urna est. Morbi vel enim congue, aliquam velit in, pharetra lorem. Suspendisse potenti. Sed in tortor augue. Aliquam luctus tortor vel erat viverra, id congue est tincidunt. Phasellus mattis luctus dolor. Praesent venenatis orci lorem, vestibulum lobortis turpis dictum ut. Cras molestie fringilla faucibus. Etiam pellentesque sagittis porttitor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur molestie ultrices purus, a porttitor nunc. Cras mattis mi ac orci pellentesque tempor. In sem ex, pharetra sed nulla eget, tempor mollis risus.
