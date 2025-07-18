@@ -1,5 +1,5 @@
 ---
-title: Building Your Site: The Block Editor
+title: Building Your Site- The Block Editor
 post_status: publish
 featured_image:
 taxonomy:
