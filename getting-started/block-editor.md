@@ -11,8 +11,6 @@ taxonomy:
 
 The WordPress Block Editor allows you to add and customize content using “blocks,” which are elements like paragraphs, images, buttons, and more. Here are the basics to help you get started.
 
----
-
 ## Inserting Blocks
 
 To add a new block:
@@ -23,15 +21,11 @@ To add a new block:
 
 ![Insert block button](https://s.w.org/images/core/5.0/add-block.gif)
 
----
-
 ## Moving and Rearranging Blocks
 
 Use the **up/down arrows** or **drag-and-drop handle** to move blocks within your content.
 
 ![Moving blocks](https://s.w.org/images/core/5.0/move-block.gif)
-
----
 
 ## Common Block Types
 
@@ -44,8 +38,6 @@ Use the **up/down arrows** or **drag-and-drop handle** to move blocks within you
 
 ![Common blocks](https://s.w.org/images/core/5.0/common-blocks.gif)
 
----
-
 ## Using the Settings Panel
 
 Click on a block, then use the **Settings Sidebar** to customize:
@@ -57,8 +49,6 @@ Click on a block, then use the **Settings Sidebar** to customize:
 
 ![Settings sidebar](https://s.w.org/images/core/5.0/block-settings.gif)
 
----
-
 ## Adding Media
 
 To add images, audio, or video:
@@ -69,22 +59,16 @@ To add images, audio, or video:
 
 ![Add media](https://s.w.org/images/core/5.0/media-block.gif)
 
----
-
 ## Publishing and Updating
 
 - Click **Publish** to make your site live.
 - Click **Update** to save changes to existing content.
 - Use **Preview** to see how it looks before publishing.
 
----
-
 ## Tips
 
 - Use the **Undo/Redo** buttons to revert changes.
 - Use keyboard shortcuts like `Ctrl+Z` (Undo), `Ctrl+Y` (Redo).
-
----
 
 ## More Help
 
