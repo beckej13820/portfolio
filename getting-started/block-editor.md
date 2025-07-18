@@ -1,6 +1,5 @@
 ---
 title: Building Your Site: The Block Editor
-menu_order: 1
 post_status: publish
 featured_image:
 taxonomy:
