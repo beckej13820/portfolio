@@ -5,6 +5,7 @@ featured_image:
 taxonomy:
     category:
         - getting-started
+        - first-steps
     post_tag:
         - 
 ---
