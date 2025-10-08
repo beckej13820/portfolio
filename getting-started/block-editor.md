@@ -4,7 +4,7 @@ post_status: publish
 featured_image:
 taxonomy:
     category:
-        - uncategorized
+        - Getting Started
     post_tag:
         - 
 ---
